@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>planes03.png</filename>
+	<path>D:\Arbeit\yolo\satelite\images\planes03.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1478</width>
+		<height>654</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>560</xmin>
+			<ymin>536</ymin>
+			<xmax>585</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>
